@@ -6,7 +6,7 @@
 <p>Sajan Madaan</p>
 <p>Yogesh Kumawat</p>
 
-<h3>Languages and Tools Used:<h3>
+<h3>Languages and Tools Used:</h3>
 <p>HTML</p>
 <p>CSS</p>
 <p>JavaScript</p>
