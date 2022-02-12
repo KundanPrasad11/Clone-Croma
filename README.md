@@ -13,7 +13,7 @@
 <p>Visual Studio Code</p>
 <p>Git</p>
 
-<h3>Pages Builds:<h3>
+<h3>Pages Builds:</h3>
 <p>HomePage</p>
 <p>ProductsPage</p>
 <p>ItemsPage</p>
@@ -24,10 +24,10 @@
  <p> <strong>Libraries Used :</strong>
    - Google Fonts - Font Awesome</p>
 
-<h3>Summary:<h3>
+<h3>Summary:</h3>
 <p>Our project is to clone "croma.com". It's an e-commerce web application to purchase electronic appliances. We did 6 pages Home page, Product's Page, Items Page, Cart Page, Payment page, Login Page and Sign Up Page. We use the Font Awesome library for icons, Google Fonts library for fonts. To make it interactive with the user we use javascript language. We add some click, mouseenter, mouseleave, etc events.</p>
 
-<h3>For Developers:<h3>
+<h3>For Developers:</h3>
 <p>For this project</p>
 <p>Click on Code once the respective repo is created</p>
 <p>On your terminal enter the following commands:</p>
