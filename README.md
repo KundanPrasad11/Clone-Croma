@@ -1,6 +1,6 @@
 # Croma Clone
 
-#Team Members
+#<b>Team Members<b>
 Kundan Kumar Prasad
 Anshul Sharma
 Sajan Madaan
