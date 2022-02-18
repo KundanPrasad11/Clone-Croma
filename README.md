@@ -1,6 +1,6 @@
 # Croma Clone
 
-<h3><a href=" https://kundanprasad11.github.io/Clone-Croma/">Live Demo</a></h3>
+<h3><a href= "https://kundanprasad11.github.io/Clone-Croma/">Live Demo</a></h3>
 
 <h3>Team Members</h3>
 <p>Kundan Kumar Prasad</p>
