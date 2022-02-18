@@ -1,5 +1,7 @@
 # Croma Clone
 
+<h3><a link=" https://kundanprasad11.github.io/Clone-Croma/">Live Demo</a></h3>
+
 <h3>Team Members</h3>
 <p>Kundan Kumar Prasad</p>
 <p>Anshul Sharma</p>
@@ -25,7 +27,7 @@
    - Google Fonts - Font Awesome</p>
 
 <h3>Summary:</h3>
-<p>Our project is to clone "croma.com". It's an e-commerce web application to purchase electronic appliances. We did 6 pages Home page, Product's Page, Items Page, Cart Page, Payment page, Login Page and Sign Up Page. We use the Font Awesome library for icons, Google Fonts library for fonts. To make it interactive with the user we use javascript language. We add some click, mouseenter, mouseleave, etc events.</p>
+<p>Our project is to clone <a href="https://www.croma.com/">croma.com</a>. It's an e-commerce web application to purchase electronic appliances. We did 6 pages Home page, Product's Page, Items Page, Cart Page, Payment page, Login Page and Sign Up Page. We use the Font Awesome library for icons, Google Fonts library for fonts. To make it interactive with the user we use javascript language. We add some click, mouseenter, mouseleave, etc events.</p>
 
 <h3>For Developers:</h3>
 <p>For this project</p>
